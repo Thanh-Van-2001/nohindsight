@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Win rate is the horoscope of trading.</title><link>https://thanh-van-2001.github.io/nohindsight/#Q01</link><guid isPermaLink="false">X-Q01</guid><pubDate>Tue, 17 Nov 2026 20:20:29 +0000</pubDate><description>Win rate is the horoscope of trading.</description></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>I found a bug in my own headline number.</title><link>https://thanh-van-2001.github.io/nohindsight/#T05</link><guid isPermaLink="false">X-T05</guid><pubDate>Wed, 18 Nov 2026 14:00:23 +0000</pubDate><description>I found a bug in my own headline number.
+
+It made the result better. I&#x27;m posting the correction anyway, because the method is the product.
+
+On 2 Nov I posted: Hyperliquid wallets picked with hindsight backtest at Sharpe 3.4. Picked on past data only: 1.3.
+
+The 1.3 was wrong.
+
+Hyperliquid samples the all-time history of older wallets every 14 days. My screen needed two adjacent weeks of data.
+
+So 5,446 of the longest track records silently failed the screen. No error. Just missing.
+
+Fixed: 1.41 (was 1.26, which I rounded to 1.3). After a 5%-a-year cost haircut: 1.22 (was 1.10).
+
+The hindsight number stays 3.4. The fixed rule still beats 100 of 100 random baskets.
+
+Same week, I retired a much prettier number.
+
+A rule that backtested at Sharpe 3.06. I had picked it on the same 66 weeks I tested it on. Deflated for that: 0.29.
+
+Pretty numbers picked with hindsight are exactly what we sell against.
+
+Two rules I now run before any result goes public:
+
+1. Count the rows that went missing, not just the errors thrown.
+2. If the rule was picked on the test data, it isn&#x27;t a result. It&#x27;s a story.
+
+Leaderboards never post corrections. That&#x27;s the point of doing it in public.
+
+No hindsight.</description></item><item><title>AI made trading strategies free.</title><link>https://thanh-van-2001.github.io/nohindsight/#Q02</link><guid isPermaLink="false">X-Q02</guid><pubDate>Wed, 18 Nov 2026 08:00:01 +0000</pubDate><description>AI made trading strategies free.
+
+It didn&#x27;t make believing them any cheaper.</description></item><item><title>I found a bug in my own headline number. It made the result better. I&#x27;m posting the correction anywa</title><link>https://thanh-van-2001.github.io/nohindsight/#L01</link><guid isPermaLink="false">LinkedIn-L01</guid><pubDate>Wed, 18 Nov 2026 03:00:23 +0000</pubDate><description>I found a bug in my own headline number. It made the result better. I&#x27;m posting the correction anyway.
+
+On 2 Nov I shared that Hyperliquid wallets picked with hindsight backtest at Sharpe 3.4, and picked on past data only, at 1.3.
+
+The 1.3 was wrong.
+
+Hyperliquid samples the all-time history of older wallets every 14 days. My screen needed two adjacent weeks of data. So 5,446 of the longest track records silently failed. No error message. Just missing rows.
+
+Fixed: 1.41 (was 1.26). After a 5%-a-year cost haircut: 1.22 (was 1.10). The hindsight figure stays 3.4, and the fixed rule still beats 100 of 100 random baskets.
+
+The same week I retired a far prettier number: a rule that backtested at Sharpe 3.06. I had chosen it on the same 66 weeks I tested it on. Deflated for that, it&#x27;s 0.29.
+
+Why post a correction that flatters me, and kill a number that flattered me more?
+
+Because the method is the product. Talyxion sells one thing: judging trading records the way you would have lived them, without hindsight. If I let hindsight into my own numbers, nothing else I say matters.
+
+Two checks I now run before any result goes public:
+→ Count the rows that went missing, not just the errors thrown.
+→ If the rule was picked on the test data, it isn&#x27;t a result. It&#x27;s a story.
+
+What&#x27;s a public correction that ended up earning you more trust than the original?</description></item><item><title>Stablecoins rarely break. When a fiat-backed one slips below $0.99, it usually comes back.</title><link>https://thanh-van-2001.github.io/nohindsight/#S23</link><guid isPermaLink="false">X-S23</guid><pubDate>Wed, 18 Nov 2026 01:30:02 +0000</pubDate><description>Stablecoins rarely break. When a fiat-backed one slips below $0.99, it usually comes back.
+
+83 events on Binance: buy at 0.99 or lower, sell at 0.998. Mean +1.05%, 94% won, worst -3.6%.
+
+The tail lives elsewhere: algorithmic stables. UST: -75%.</description></item><item><title>Win rate is the horoscope of trading.</title><link>https://thanh-van-2001.github.io/nohindsight/#Q01</link><guid isPermaLink="false">X-Q01</guid><pubDate>Tue, 17 Nov 2026 20:20:29 +0000</pubDate><description>Win rate is the horoscope of trading.</description></item></channel></rss>
