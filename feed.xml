@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.</title><link>https://thanh-van-2001.github.io/nohindsight/#L02</link><guid isPermaLink="false">LinkedIn-L02</guid><pubDate>Thu, 19 Nov 2026 03:00:02 +0000</pubDate><description>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Kill Log #017: I found a 69-day cycle in Bitcoin.</title><link>https://thanh-van-2001.github.io/nohindsight/#T06</link><guid isPermaLink="false">X-T06</guid><pubDate>Thu, 19 Nov 2026 14:00:16 +0000</pubDate><description>Kill Log #017: I found a 69-day cycle in Bitcoin.
+
+Out of sample. Beat 200 shuffles. Positive 11 years out of 12.
+
+Then I ran the one test that matters.
+
+The pattern: days with a big move (over 2.5x trailing volatility) cluster on a 68.94-day cycle.
+
+Apr 2023 to Nov 2026: 5.8% of cycle days were big-move days vs 2.1% otherwise. z = 3.40. 0 of 200 shuffles matched it.
+
+No mechanism. Nothing in markets runs on 69 days. That&#x27;s a red flag, not a discovery.
+
+So I wrote the pass rule down first: extend the cycle back to 2010-2014, data the search never touched. Need z &gt; 2.
+
+Result: z = +0.85.
+
+Dead.
+
+The same data source reproduces the 2014-2026 effect, so it isn&#x27;t a data problem. It was selection luck: search enough periods and one will look like a law of nature.
+
+Lesson: when a pattern has no reason to exist, out-of-sample isn&#x27;t enough. Go back in time to data the search never saw.
+
+Kill #017. #018 lands next week. Follow so you don&#x27;t miss it.</description></item><item><title>Most alpha is a timestamp bug with confidence.</title><link>https://thanh-van-2001.github.io/nohindsight/#Q03</link><guid isPermaLink="false">X-Q03</guid><pubDate>Thu, 19 Nov 2026 08:00:01 +0000</pubDate><description>Most alpha is a timestamp bug with confidence.</description></item><item><title>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.</title><link>https://thanh-van-2001.github.io/nohindsight/#L02</link><guid isPermaLink="false">LinkedIn-L02</guid><pubDate>Thu, 19 Nov 2026 03:00:02 +0000</pubDate><description>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.
 
 People ask how. The honest answer isn&#x27;t time management. It&#x27;s deletion.
 
