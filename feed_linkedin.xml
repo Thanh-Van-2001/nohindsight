@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Talyxion page feed</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Founder posts for the Talyxion LinkedIn page.</description><item><title>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.</title><link>https://www.linkedin.com/feed/update/urn:li:share:7529015601164402688/</link><guid isPermaLink="false">page-L02</guid><pubDate>Thu, 19 Nov 2026 03:00:02 +0000</pubDate><description>I&#x27;m 25. This year I started a PhD at Tsinghua and kept running a company that 130+ traders pay for.
+
+People ask how. The honest answer isn&#x27;t time management. It&#x27;s deletion.
+
+Every project gets the test I give trading strategies: a kill rule, written down before I see the result. If it fails, it&#x27;s archived. No &quot;one more week&quot;.
+
+This autumn that rule killed a Bitcoin cycle that had passed an out-of-sample test, a stablecoin timing signal, and an AI scheduler my own simulator loved.
+
+What survives gets all of my attention:
+→ Talyxion: copy trading judged without hindsight. $0 on ads, a team of 9, $0 raised.
+→ The PhD: how to measure trading records honestly.
+
+What opened doors for me wasn&#x27;t a network. It was a record: 1st in Vietnam at WorldQuant&#x27;s International Quant Championship, competing solo, out of 30,000+ entrants worldwide.
+
+A record is a network that works while you sleep.
+
+If you&#x27;re spread across ten things: write the kill rule for each one tonight. Most of them will die. Good.
+
+What&#x27;s the last project you killed, and do you miss it?
+
+From our founder, Thanh Nguyen. Early access: https://thanh-van-2001.github.io/nohindsight/start/?src=lipage</description></item><item><title>I found a bug in my own headline number. It made the result better. I&#x27;m posting the correction anyway.</title><link>https://www.linkedin.com/feed/update/urn:li:share:7528653301299712000/</link><guid isPermaLink="false">page-L01</guid><pubDate>Wed, 18 Nov 2026 03:00:23 +0000</pubDate><description>I found a bug in my own headline number. It made the result better. I&#x27;m posting the correction anyway.
+
+On 2 Nov I shared that Hyperliquid wallets picked with hindsight backtest at Sharpe 3.4, and picked on past data only, at 1.3.
+
+The 1.3 was wrong.
+
+Hyperliquid samples the all-time history of older wallets every 14 days. My screen needed two adjacent weeks of data. So 5,446 of the longest track records silently failed. No error message. Just missing rows.
+
+Fixed: 1.41 (was 1.26). After a 5%-a-year cost haircut: 1.22 (was 1.10). The hindsight figure stays 3.4, and the fixed rule still beats 100 of 100 random baskets.
+
+The same week I retired a far prettier number: a rule that backtested at Sharpe 3.06. I had chosen it on the same 66 weeks I tested it on. Deflated for that, it&#x27;s 0.29.
+
+Why post a correction that flatters me, and kill a number that flattered me more?
+
+Because the method is the product. Talyxion sells one thing: judging trading records the way you would have lived them, without hindsight. If I let hindsight into my own numbers, nothing else I say matters.
+
+Two checks I now run before any result goes public:
+→ Count the rows that went missing, not just the errors thrown.
+→ If the rule was picked on the test data, it isn&#x27;t a result. It&#x27;s a story.
+
+What&#x27;s a public correction that ended up earning you more trust than the original?
+
+From our founder, Thanh Nguyen. Early access: https://thanh-van-2001.github.io/nohindsight/start/?src=lipage</description></item></channel></rss>
