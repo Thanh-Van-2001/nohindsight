@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Kill Log #017: I found a 69-day cycle in Bitcoin.</title><link>https://thanh-van-2001.github.io/nohindsight/#T06</link><guid isPermaLink="false">X-T06</guid><pubDate>Thu, 19 Nov 2026 14:00:16 +0000</pubDate><description>Kill Log #017: I found a 69-day cycle in Bitcoin.
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>My prettiest number this month: Sharpe 3.06.</title><link>https://thanh-van-2001.github.io/nohindsight/#S25</link><guid isPermaLink="false">X-S25</guid><pubDate>Fri, 20 Nov 2026 14:00:02 +0000</pubDate><description>My prettiest number this month: Sharpe 3.06.
+
+Deflated for the fact that I picked the rule on the same data I tested it on: 0.29.
+
+Deflated Sharpe is the one ratio a leaderboard will never show you.</description></item><item><title>Quants: what&#x27;s the dumbest bug that ever made you rich in a backtest?</title><link>https://thanh-van-2001.github.io/nohindsight/#Q04</link><guid isPermaLink="false">X-Q04</guid><pubDate>Fri, 20 Nov 2026 08:00:07 +0000</pubDate><description>Quants: what&#x27;s the dumbest bug that ever made you rich in a backtest?
+
+Mine: log returns on a short. +9% a trade became +1.31%.</description></item><item><title>If you copy the #1 trader on a leaderboard, you&#x27;re buying their past, not their future.</title><link>https://thanh-van-2001.github.io/nohindsight/#P01</link><guid isPermaLink="false">X-P01</guid><pubDate>Fri, 20 Nov 2026 01:30:02 +0000</pubDate><description>If you copy the #1 trader on a leaderboard, you&#x27;re buying their past, not their future.
+
+We checked 47,220 Hyperliquid wallets. The &quot;best&quot; records lose more than half their quality the moment you can&#x27;t see the future: 3.4 becomes 1.4.
+
+Pick by rules, not by rank.</description></item><item><title>Kill Log #017: I found a 69-day cycle in Bitcoin.</title><link>https://thanh-van-2001.github.io/nohindsight/#T06</link><guid isPermaLink="false">X-T06</guid><pubDate>Thu, 19 Nov 2026 14:00:16 +0000</pubDate><description>Kill Log #017: I found a 69-day cycle in Bitcoin.
 
 Out of sample. Beat 200 shuffles. Positive 11 years out of 12.
 
