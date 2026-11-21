@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>My prettiest number this month: Sharpe 3.06.</title><link>https://thanh-van-2001.github.io/nohindsight/#S25</link><guid isPermaLink="false">X-S25</guid><pubDate>Fri, 20 Nov 2026 14:00:02 +0000</pubDate><description>My prettiest number this month: Sharpe 3.06.
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Can a &quot;frequency&quot; predict the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#T07</link><guid isPermaLink="false">X-T07</guid><pubDate>Sat, 21 Nov 2026 14:00:17 +0000</pubDate><description>Can a &quot;frequency&quot; predict the future?
+
+I tested it the way you&#x27;d test a trading signal: predictions locked with a hash before the future existed.
+
+The target: drand, a public randomness beacon. New random bits every round, impossible to know in advance.
+
+Before each round existed, I committed predictions from 432 Hz, 528 Hz, the Schumann resonance and a hardware-noise &quot;receiver&quot;. 200 rounds x 256 bits.
+
+432 Hz: 49.85%
+528 Hz: 49.88%
+Schumann: 50.10%
+&quot;Receiver&quot;: 50.26%
+Random control: 49.95%
+
+Coin flips. All of them.
+
+Then lotteries, market direction and earthquakes. Lotteries: 0 jackpots. Everything that looked good in-sample vanished out of sample.
+
+Why bother? Because this is the exact shape of most trading &quot;edges&quot;: a story, a pretty backtest, no commitment before the data.
+
+Commit first. Then look. That one habit kills most of the nonsense.
+
+I test one claim like this every week. Follow for the next one.</description></item><item><title>My prettiest number this month: Sharpe 3.06.</title><link>https://thanh-van-2001.github.io/nohindsight/#S25</link><guid isPermaLink="false">X-S25</guid><pubDate>Fri, 20 Nov 2026 14:00:02 +0000</pubDate><description>My prettiest number this month: Sharpe 3.06.
 
 Deflated for the fact that I picked the rule on the same data I tested it on: 0.29.
 
