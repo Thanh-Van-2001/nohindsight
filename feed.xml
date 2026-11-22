@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Can a &quot;frequency&quot; predict the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#T07</link><guid isPermaLink="false">X-T07</guid><pubDate>Sat, 21 Nov 2026 14:00:17 +0000</pubDate><description>Can a &quot;frequency&quot; predict the future?
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.</title><link>https://thanh-van-2001.github.io/nohindsight/#S28</link><guid isPermaLink="false">X-S28</guid><pubDate>Sun, 22 Nov 2026 14:00:02 +0000</pubDate><description>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.
+
+Trade it hourly and the net Sharpe is -1.0.
+
+A real signal and a profitable trade are different objects. Turnover is the distance between them.</description></item><item><title>Can a &quot;frequency&quot; predict the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#T07</link><guid isPermaLink="false">X-T07</guid><pubDate>Sat, 21 Nov 2026 14:00:17 +0000</pubDate><description>Can a &quot;frequency&quot; predict the future?
 
 I tested it the way you&#x27;d test a trading signal: predictions locked with a hash before the future existed.
 
