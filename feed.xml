@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.</title><link>https://thanh-van-2001.github.io/nohindsight/#S28</link><guid isPermaLink="false">X-S28</guid><pubDate>Sun, 22 Nov 2026 14:00:02 +0000</pubDate><description>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#C01</link><guid isPermaLink="false">X-C01</guid><pubDate>Mon, 23 Nov 2026 14:00:03 +0000</pubDate><description>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?
+
+Talyxion runs that check on traders and wallets before anyone copies them, then copies into your own exchange account.
+
+Past data only; you can lose money. Link in bio.</description></item><item><title>Every quant has this picture in a drawer.</title><link>https://thanh-van-2001.github.io/nohindsight/#M01</link><guid isPermaLink="false">X-M01</guid><pubDate>Mon, 23 Nov 2026 08:00:02 +0000</pubDate><description>Every quant has this picture in a drawer.
+
+Left: my best-looking signal, Sharpe 7.22. Right: the same signal with a two-bar delay, 0.79.
+
+The gap was bid-ask bounce. The fix was one line of code.</description></item><item><title>Most copy traders don&#x27;t lose because their leader blows up.</title><link>https://thanh-van-2001.github.io/nohindsight/#P02</link><guid isPermaLink="false">X-P02</guid><pubDate>Mon, 23 Nov 2026 01:30:02 +0000</pubDate><description>Most copy traders don&#x27;t lose because their leader blows up.
+
+They lose because the leader quietly stops trading. About 1 in 3 leaderboard accounts are gone within a year, mostly by withdrawing.
+
+Copy several. Never one.</description></item><item><title>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.</title><link>https://thanh-van-2001.github.io/nohindsight/#S28</link><guid isPermaLink="false">X-S28</guid><pubDate>Sun, 22 Nov 2026 14:00:02 +0000</pubDate><description>The Coinbase premium does predict Bitcoin. t = 3.0 out of sample, with a one-hour lag.
 
 Trade it hourly and the net Sharpe is -1.0.
 
