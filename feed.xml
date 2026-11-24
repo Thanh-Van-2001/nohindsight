@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#C01</link><guid isPermaLink="false">X-C01</guid><pubDate>Mon, 23 Nov 2026 14:00:03 +0000</pubDate><description>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>A checklist for your next backtest.</title><link>https://thanh-van-2001.github.io/nohindsight/#B01</link><guid isPermaLink="false">X-B01</guid><pubDate>Tue, 24 Nov 2026 14:00:03 +0000</pubDate><description>A checklist for your next backtest.
+
+10 ways a backtest lies, and the one check that catches each. Every row is a strategy I actually killed.
+
+Which one has burned you?</description></item><item><title>An open problem from 1998 just moved.</title><link>https://thanh-van-2001.github.io/nohindsight/#R01</link><guid isPermaLink="false">X-R01</guid><pubDate>Tue, 24 Nov 2026 11:28:49 +0000</pubDate><description>An open problem from 1998 just moved.
+
+Ring loading, worst-case gap of unsplit vs split routing:
+2016: 1.10 (Skutella, conjectured exact)
+2025: 47/42 on a sequence version (AlphaEvolve)
+Today: 9/8 = 1.125, proven exactly
+
+One Claude Code session. Full instance in image 2.</description></item><item><title>Same traders. Different question.</title><link>https://thanh-van-2001.github.io/nohindsight/#M02</link><guid isPermaLink="false">X-M02</guid><pubDate>Tue, 24 Nov 2026 08:00:02 +0000</pubDate><description>Same traders. Different question.
+
+The leaderboard asks &quot;who made money?&quot; A copier has to ask &quot;who will, picked before the fact?&quot;
+
+3.4 vs 1.4, on 47,220 Hyperliquid wallets.</description></item><item><title>A 94% win rate sounds safe.</title><link>https://thanh-van-2001.github.io/nohindsight/#P03</link><guid isPermaLink="false">X-P03</guid><pubDate>Tue, 24 Nov 2026 01:30:03 +0000</pubDate><description>A 94% win rate sounds safe.
+
+Our stablecoin study had one (83 events). The worst trade still lost 3.6%, and the same idea on algorithmic stablecoins once lost 75%.
+
+Always ask: what does the worst day look like?</description></item><item><title>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?</title><link>https://thanh-van-2001.github.io/nohindsight/#C01</link><guid isPermaLink="false">X-C01</guid><pubDate>Mon, 23 Nov 2026 14:00:03 +0000</pubDate><description>Everything I post comes from one question: would this record survive if you couldn&#x27;t see the future?
 
 Talyxion runs that check on traders and wallets before anyone copies them, then copies into your own exchange account.
 
