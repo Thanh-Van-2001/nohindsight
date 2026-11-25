@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>A checklist for your next backtest.</title><link>https://thanh-van-2001.github.io/nohindsight/#B01</link><guid isPermaLink="false">X-B01</guid><pubDate>Tue, 24 Nov 2026 14:00:03 +0000</pubDate><description>A checklist for your next backtest.
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>No hindsight. · Thanh Nguyen</title><link>https://thanh-van-2001.github.io/nohindsight/</link><description>Kill logs, research on public trading records, and the build.</description><item><title>Someone ranked open math problems by LLM-judged importance. One data point from a minor one, ring lo</title><link>https://thanh-van-2001.github.io/nohindsight/#ND01</link><guid isPermaLink="false">X-ND01</guid><pubDate>Wed, 25 Nov 2026 14:00:03 +0000</pubDate><description>Someone ranked open math problems by LLM-judged importance. One data point from a minor one, ring loading, where the agent search that reached 9/8 took 37 seconds. Trusting it took three separate programs and a literature check. Search got cheap. Checking didn&#x27;t.</description></item><item><title>Funding farming, explained in one chart.</title><link>https://thanh-van-2001.github.io/nohindsight/#M03</link><guid isPermaLink="false">X-M03</guid><pubDate>Wed, 25 Nov 2026 08:00:03 +0000</pubDate><description>Funding farming, explained in one chart.
+
+684 Binance perps: +324% collected in funding, -277% given back on price. Net Sharpe 0.14 to 0.47.</description></item><item><title>My simulator said a Bayesian scheduler would beat the best public one by 5.7 points on ARC-AGI-3.</title><link>https://thanh-van-2001.github.io/nohindsight/#S26</link><guid isPermaLink="false">X-S26</guid><pubDate>Wed, 25 Nov 2026 01:30:02 +0000</pubDate><description>My simulator said a Bayesian scheduler would beat the best public one by 5.7 points on ARC-AGI-3.
+
+The real leaderboard: 25.49 vs a community average of 25.77 ± 3.93.
+
+Simulators are backtests for AI. Same disease, same cure: run it live.</description></item><item><title>Update on the 9/8 ring-loading bound.</title><link>https://thanh-van-2001.github.io/nohindsight/#R02</link><guid isPermaLink="false">X-R02</guid><pubDate>Tue, 24 Nov 2026 18:22:50 +0000</pubDate><description>Update on the 9/8 ring-loading bound.
+
+A fix first: if each pair of nodes may carry only one demand, the ring needs 43 nodes, not 30. Same gap, exactly 9/8.
+
+Literature check done: no ring bound above 1.10 since 2016.
+Three separate programs confirm the proof. Preprint next.
+
+The one-demand-per-pair instance and the three checks.</description></item><item><title>A checklist for your next backtest.</title><link>https://thanh-van-2001.github.io/nohindsight/#B01</link><guid isPermaLink="false">X-B01</guid><pubDate>Tue, 24 Nov 2026 14:00:03 +0000</pubDate><description>A checklist for your next backtest.
 
 10 ways a backtest lies, and the one check that catches each. Every row is a strategy I actually killed.
 

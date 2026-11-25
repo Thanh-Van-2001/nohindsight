@@ -1,0 +1,25 @@
+/* "Lab notebook" (checked with the impeccable detector, 25 Nov 2026): the same look as the post cards (make_post_cards.py). Paper, ink, one oxblood accent kept for
+   measured numbers. Fonts are OFL and self-hosted (fonts/), so visitors' browsers never call a font CDN. */
+@font-face{font-family:"Instrument Serif";src:url(fonts/InstrumentSerif-Regular.ttf) format("truetype");font-display:swap}
+@font-face{font-family:"Instrument Serif";font-style:italic;src:url(fonts/InstrumentSerif-Italic.ttf) format("truetype");font-display:swap}
+@font-face{font-family:"IBM Plex Sans";font-weight:100 700;src:url(fonts/IBMPlexSans-VF.ttf) format("truetype");font-display:swap}
+@font-face{font-family:"IBM Plex Mono";src:url(fonts/IBMPlexMono-Regular.ttf) format("truetype");font-display:swap}
+:root{--bg:#E8EDE9;--fg:#17191E;--mut:#565C5A;--line:#C8D1CB;--acc:#A4231B}
+body{margin:0;background:var(--bg);color:var(--fg);font:18px/1.6 "IBM Plex Sans",system-ui,sans-serif}
+main{max-width:34rem;margin:0 auto;padding:56px 16px 40px}
+h1,h2{font-family:"Instrument Serif",Georgia,serif;font-weight:400;letter-spacing:-.01em;text-wrap:balance}
+h1{font-size:clamp(40px,8vw,64px);line-height:1.02;margin:0 0 18px}
+h2{font-size:30px;line-height:1.15;margin:48px 0 8px}
+p,li{text-wrap:pretty}
+a{color:var(--acc);text-underline-offset:3px}
+.sub{color:var(--mut);font-size:20px}
+.n{font-family:"IBM Plex Mono",ui-monospace,monospace;font-size:.92em;color:var(--acc)}
+.tag{font-family:"Instrument Serif",Georgia,serif;font-style:italic;color:var(--mut);font-size:22px}
+.cta{display:inline-block;background:var(--fg);color:var(--bg);font-weight:700;padding:14px 22px;border-radius:6px;text-decoration:none;margin:22px 0}
+.cta:hover,.cta:focus-visible{background:var(--acc)}
+ol{padding-left:1.2em}ol li{margin:8px 0}
+.risk{border-top:1px solid var(--line);padding-top:16px;margin-top:48px;color:var(--mut);font-size:15px}
+article{border-top:1px solid var(--line);padding:22px 0}
+.meta{color:var(--mut);font-size:14px}
+img{max-width:100%;border-radius:4px;margin-top:10px}
+footer{border-top:1px solid var(--line);color:var(--mut);font-size:14px;margin-top:40px;padding-top:16px}
